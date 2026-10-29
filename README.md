@@ -3,7 +3,7 @@
 
 # Project Title
 
-Describe what your project is about and what it does
+LEARN HOW TO WORK WITH GIT COMMANDS
 
 ## Information about how to use your project
 
