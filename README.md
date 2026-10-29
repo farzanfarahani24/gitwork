@@ -13,3 +13,4 @@ You are welcome to improve the python file for applying analysis on the data fil
 
 ## Date created
 29/10/2026
+All rights reserved.
