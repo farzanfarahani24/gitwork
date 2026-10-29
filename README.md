@@ -2,26 +2,14 @@
 
 
 # Project Title
-
-Describe what your project is about and what it does
+LEARNING GIT COMMANDS.
 
 ## Information about how to use your project
 
-This could include:
-
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+The project include a python file plus a data file.
 
 ## Contribution guidelines
-
-If you welcome contributions, provide guidelines on how others can contribute to your project.
-
-## Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+You are welcome to improve the python file for applying analysis on the data file.
 
 ## Date created
-
-Include the date you created this project and README file.
+29/10/2026
